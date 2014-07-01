@@ -1,0 +1,114 @@
+{
+	"IcoMoonType": "selection",
+	"icons": [
+		{
+			"icon": {
+				"paths": [
+					"M1439.258 484.584l-316.595 539.416h-233.124l-172.005-293.020-172.18 293.020h-228.584l-316.769-539.416h220.027l209.201 398.494 183.531-343.662h-7.858l-32.131-54.832-284.638-484.584h220.027l209.201 398.494 212.868-398.494h220.027l-316.769 539.416h-1.746l-0.873-1.572-0.873 1.572h1.746l174.799 343.662 212.868-398.494z"
+				],
+				"width": 1439,
+				"grid": 0,
+				"tags": [
+					"pn"
+				]
+			},
+			"properties": {
+				"order": 4,
+				"id": 2,
+				"prevSize": 32,
+				"code": 58882,
+				"name": "pn",
+				"ligatures": ""
+			},
+			"setIdx": 0,
+			"iconIdx": 1
+		},
+		{
+			"icon": {
+				"paths": [
+					"M1439.258 484.584l-316.595 539.416h-233.124l-172.005-293.020-172.18 293.020h-228.584l-316.769-539.416h220.027l209.201 398.494 183.531-343.662h-7.858l-32.131-54.832-284.638-484.584h220.027l209.201 398.494 212.868-398.494h220.027l-316.769 539.416h-1.746l-0.873-1.572-0.873 1.572h1.746l174.799 343.662 212.868-398.494z"
+				],
+				"width": 1439,
+				"grid": 0,
+				"tags": [
+					"pn"
+				]
+			},
+			"properties": {
+				"order": 2,
+				"id": 1,
+				"prevSize": 32,
+				"code": 58880,
+				"name": "pn2",
+				"ligatures": ""
+			},
+			"setIdx": 0,
+			"iconIdx": 2
+		},
+		{
+			"icon": {
+				"paths": [
+					"M0 288.784c0-21.141 14.975-47.086 33.287-57.657l386.616-223.201c18.312-10.57 48.263-10.57 66.574 0l386.608 223.201c18.312 10.57 33.287 36.516 33.287 57.657v446.417c0 21.141-14.975 47.086-33.287 57.657l-386.608 223.209c-18.312 10.57-48.263 10.57-66.574 0l-386.616-223.209c-18.312-10.57-33.287-36.516-33.287-57.657v-446.417z",
+					"M769.957 499.961l-139.376 237.469h-102.621l-75.73-128.997-75.792 128.997h-100.638l-139.453-237.469h96.863l92.097 175.43 80.796-151.291h-3.459l-14.145-24.139-125.307-213.33h96.863l92.097 175.43 93.712-175.43h96.863l-139.445 237.469h-0.776l-0.384-0.7-0.377 0.7h0.761l76.953 151.291 93.712-175.43z"
+				],
+				"width": 906,
+				"grid": 0,
+				"tags": [
+					"logo-svg-one"
+				]
+			},
+			"properties": {
+				"order": 3,
+				"id": 0,
+				"prevSize": 32,
+				"code": 58881,
+				"name": "logo-svg-one",
+				"ligatures": ""
+			},
+			"setIdx": 0,
+			"iconIdx": 3
+		}
+	],
+	"height": 1024,
+	"metadata": {
+		"name": "puthunutpam",
+		"url": "http://puthunutpam.com",
+		"designer": "Tharique Azeez",
+		"designerURL": "http://niram.org",
+		"license": ""
+	},
+	"preferences": {
+		"showGlyphs": true,
+		"showQuickUse": true,
+		"fontPref": {
+			"prefix": "pn-",
+			"metadata": {
+				"fontFamily": "puthunutpam",
+				"majorVersion": 1,
+				"minorVersion": 2,
+				"fontURL": "http://puthunutpam.com",
+				"designer": "Tharique Azeez",
+				"designerURL": "http://niram.org",
+				"license": ""
+			},
+			"metrics": {
+				"emSize": 512,
+				"baseline": 6.25,
+				"whitespace": 50
+			},
+			"autoHost": true,
+			"showMetrics": true,
+			"showMetadata": true,
+			"showVersion": true,
+			"includeMetadata": true,
+			"embed": true
+		},
+		"imagePref": {},
+		"historySize": 100,
+		"showCodes": true,
+		"search": "",
+		"quickUsageToken": {
+			"UntitledProject2": "ZWRkY2Q4N2Q4YTU3YWIxOWYyMzM4ZDg5ZmY4OWJmMWEjMiMxMzk5MDU5NDI1IyMj"
+		}
+	}
+}
