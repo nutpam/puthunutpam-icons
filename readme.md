@@ -1,6 +1,6 @@
 #### Puthunutpam Icons
 
-Repository of Puthunutpam brand identity stuff, where a font consits of icons that represent Puthunutpam. 
+Repository of (Puthunutpam)[http://puthunutpam.com] brand identity stuff, where a font consits of icons that represent Puthunutpam. 
 
 Using this repo as a reference and version controlling on the icons in the future.
 
